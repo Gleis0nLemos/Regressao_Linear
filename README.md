@@ -1,12 +1,8 @@
 ### Regressão linear: Testando relações e prevendo resultados
     Curso da Alura ^^
 
-#### Vistos na AULA 02:
+#### Observações da AULA 03:
 
 ###
-    - Como plotar a variável dependente;
-    - Como importar a biblioteca seaborn;
-    - Como criar um box-plot da variável dependente;
-    - Como criar um box-plot de duas variáveis;
-    - Como configurar os estilos e cores da biblioteca seaborn;
-    - Como fazer um histograma com a variável dependente.
+    - Como plotar gráficos de dispersão entre as variáveis do dataset com pairplot, jointplot e lmplot;
+    - Como ocultar ou modificar para visualizar uma única vez os warnings do Jupyter.
