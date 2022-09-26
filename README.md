@@ -1,8 +1,12 @@
 ### Regressão linear: Testando relações e prevendo resultados
     Curso da Alura ^^
 
-#### Observações da AULA 03:
+#### Aprendi na AULA 04:
 
 ###
-    - Como plotar gráficos de dispersão entre as variáveis do dataset com pairplot, jointplot e lmplot;
-    - Como ocultar ou modificar para visualizar uma única vez os warnings do Jupyter.
+    - Como preparar os dados e criar os datasets de treino e de teste;
+    - Como verificar os tamanhos dos arquivos gerados pela função train_test_split;
+    - Como estimar um modelo de regressão linear;
+    - Como obter previsões pontuais;
+    - Como interpretar os coeficientes estimados;
+    - Como fazer análises gráficas das previsões.
