@@ -4,9 +4,8 @@
 #### Aprendi na AULA 04:
 
 ###
-    - Como preparar os dados e criar os datasets de treino e de teste;
-    - Como verificar os tamanhos dos arquivos gerados pela função train_test_split;
-    - Como estimar um modelo de regressão linear;
-    - Como obter previsões pontuais;
-    - Como interpretar os coeficientes estimados;
-    - Como fazer análises gráficas das previsões.
+    - Como estimar um novo modelo, mas dessa vez utilizando outra variável explicativa
+    - Como criar os datasets de treino e teste do novo modelo
+    - Como comparar os dois modelos
+    - Outras métricas de regressão
+        *Erro quadrático médio e sua raiz
