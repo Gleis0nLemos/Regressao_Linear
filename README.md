@@ -1,11 +1,12 @@
 ### Regressão linear: Testando relações e prevendo resultados
     Curso da Alura ^^
 
-#### Conteúdos observados na AULA 01:
+#### Vistos na AULA 02:
 
 ###
-    - Como importar bibliotecas;
-    - Como ler e visualizar os dados;
-    - Como verificar o tamanho do dataset;
-    - Como criar uma tabela com estatísticas descritivas dos dados do dataset;
-    - Como criar uma matriz de correlação dos dados da tabela de estatísticas descritivas.
+    - Como plotar a variável dependente;
+    - Como importar a biblioteca seaborn;
+    - Como criar um box-plot da variável dependente;
+    - Como criar um box-plot de duas variáveis;
+    - Como configurar os estilos e cores da biblioteca seaborn;
+    - Como fazer um histograma com a variável dependente.
